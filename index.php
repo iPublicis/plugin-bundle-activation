@@ -6,8 +6,8 @@ Description: WordPress Plugin bundle installation and activation
 Version:     1.0
 Author:      Lopo lencastre de Almeida
 Author URI:  http://profiles.wordpress.org/ipublicis
-License:     GPL2
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License:     AGPL3
+License URI: https://www.gnu.org/licenses/agpl-3.0.en.html
 Domain Path: /languages
 Text Domain: ipcorepba
 */
@@ -16,7 +16,7 @@ Text Domain: ipcorepba
   Copyright 2016 iPublicis!COM (ipublicis.com)
 
   This program is free software; you can redistribute it and/or modify
-  it under the terms of the GNU General Public License, version 2, as
+  it under the terms of the Affero General Public License, version 3, as
   published by the Free Software Foundation.
 
   This program is distributed in the hope that it will be useful,

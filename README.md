@@ -1,5 +1,5 @@
 # Plugin Bundle Activation
-[![GitHub license](https://img.shields.io/badge/license-AGPLv3-blue.svg)](https://raw.githubusercontent.com/iPublicis/plugin-bundle-activation/develop/LICENSE.md)
+[![GitHub license](https://img.shields.io/badge/license-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
 **Lead Developers:**
 [Lopo Lencastre de Almeida](https://github.com/iPublicis)  
@@ -17,7 +17,7 @@ With this you can have separated packs for eCommerce, blog, community and any ki
 
 Afterwards, you can keep the plugin installed or just remove it.
 
-This plugin is based on the fine work of the [TGM Plugin Activation](http://tgmpluginactivation.com/) and the [JSON.minify()](https://github.com/getify/JSON.minify/tree/php) teams.
+This plugin is based on the fine work of, and includes, the [TGM Plugin Activation](http://tgmpluginactivation.com/) and [JSON.minify()](https://github.com/getify/JSON.minify/tree/php) teams.
 
 **PLEASE READ CAREFULLY THE INSTALLATION SECTION HERE AND IN THE `readme.txt` INCLUDED.**
 
@@ -47,7 +47,7 @@ Just get the `config.json.sample` included and make the changes you want. The fi
 
 # Have more questions?
 
-Go to the [Wordpress' forum](http://wordpress.org/tags/plugin-bundle-activation?forum_id=10#postform).
+Go to the [Wordpress Plugin Bundle Activation's forum](https://github.com/iPublicis/plugin-bundle-activation/issues).
 
 ## Changelog
 
