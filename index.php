@@ -7,7 +7,7 @@ Version:     1.0
 Author:      Lopo lencastre de Almeida
 Author URI:  http://profiles.wordpress.org/ipublicis
 License:     AGPL3
-License URI: https://www.gnu.org/licenses/agpl-3.0.en.html
+License URI: https://www.gnu.org/licenses/agpl-3.0.txt
 Domain Path: /languages
 Text Domain: ipcorepba
 */
