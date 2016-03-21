@@ -9,7 +9,7 @@
 
 ## Description
 
-How many times do you setup a new site and had to install the same plugins over and over again?
+How many times do you setup a new *WordPress* site and had to install the same plugins over and over again?
 
 This plugin creates a way to automatically install and activate plugins just using a simple JSON file and with no extra coding required. The plugins can be either bundled, downloaded from the WordPress Plugin Repository or downloaded from another external source.
 
