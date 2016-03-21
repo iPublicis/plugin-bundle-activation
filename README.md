@@ -4,7 +4,7 @@
 **Lead Developers:**
 [Lopo Lencastre de Almeida](https://github.com/iPublicis)  
 **Version:** 1.0   
-**Requires at least:** 3.7.0  
+**Requires at least:** 4.1.0  
 **Tested up to:** 4.4.2  
 
 ## Description
@@ -41,17 +41,17 @@ And that's it.
 
 ## Frequently Asked Questions
 
-# HOW TO CREATE A NEW BUNDLE
+### HOW TO CREATE A NEW BUNDLE
 
 Just get the `config.json.sample` included and make the changes you want. The file is full commented so it is easy to follow.
 
-# Have more questions?
+### Have more questions?
 
 Go to the [Wordpress Plugin Bundle Activation's forum](https://github.com/iPublicis/plugin-bundle-activation/issues).
 
 ## Changelog
 
-# 1.0
+### 1.0
 
 * First version released.
 
