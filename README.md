@@ -1,9 +1,9 @@
-# TGM Plugin Activation
-[![GitHub license](https://img.shields.io/badge/license-AGPLv3-blue.svg)](https://raw.githubusercontent.com/TGMPA/TGM-Plugin-Activation/develop/LICENSE.md)
+# Plugin Bundle Activation
+[![GitHub license](https://img.shields.io/badge/license-AGPLv3-blue.svg)](https://raw.githubusercontent.com/iPublicis/plugin-bundle-activation/develop/LICENSE.md)
 
 **Lead Developers:**
 [Lopo Lencastre de Almeida](https://github.com/iPublicis)  
-**Version:** 1.0 
+**Version:** 1.0   
 **Requires at least:** 3.7.0  
 **Tested up to:** 4.4.2  
 
