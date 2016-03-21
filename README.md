@@ -25,7 +25,7 @@ This plugin is based on the fine work of, and includes, the [TGM Plugin Activati
 
 ## Installation
 
-How to install the **Plugin Bundle Activation** plugin and get it working in an handful of steps:
+How to install the **Plugin Bundle Activation** plugin and get it working in a few steps:
 
 1. **BE SURE THAT** you DON'T install this plugin automatically. It requires some tweakning.
 2. **DOWNLOAD** the zip file to you own local system.
@@ -41,11 +41,11 @@ And that's it.
 
 ## Frequently Asked Questions
 
-### HOW TO CREATE A NEW BUNDLE
+#### HOW TO CREATE A NEW BUNDLE
 
 Just get the `config.json.sample` included and make the changes you want. The file is full commented so it is easy to follow.
 
-### Have more questions?
+#### Have more questions?
 
 Go to the [Wordpress Plugin Bundle Activation's forum](https://github.com/iPublicis/plugin-bundle-activation/issues).
 
