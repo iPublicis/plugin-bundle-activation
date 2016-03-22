@@ -21,21 +21,21 @@ This plugin is based on the fine work of, and includes, the [TGM Plugin Activati
 
 **PLEASE READ CAREFULLY THE INSTALLATION SECTION HERE AND IN THE `readme.txt` INCLUDED.**
 
-*Check out the other [Wordpress plugins](http://profiles.wordpress.org/ipublicis) by the same author.*
+*Check out the other [WordPress plugins](http://profiles.wordpress.org/ipublicis) by the same author.*
 
 ## Installation
 
 How to install the **Plugin Bundle Activation** plugin and get it working in a few steps:
 
 1. **BE SURE THAT** you DON'T install this plugin automatically. It requires some tweakning.
-2. **DOWNLOAD** the zip file to you own local system.
+2. **DOWNLOAD** the zip file to your own local system.
 3. Extract zip file to your local system.
 4. Open the `config.json.sample` file included and change it accordingly to your project.
-5. Add your new plugins to the file and save it as `config.json`
-6. Upload `/plugin-bundle-activation/` folder and its files to the `/wp-content/plugins/` directory OR compress it to a new zip file and use the Wordpress admin interface to upload it, what best fits you.
-7. If not activate the plugin through the 'Plugins' menu in WordPress.
+5. Add your plugins' references to the file and save it as `config.json`
+6. Upload `/plugin-bundle-activation/` folder and its files to the `/wp-content/plugins/` directory OR compress it to a new zip file and use the WordPress admin interface to upload it; what best fits you.
+7. If not yet, activate the plugin through the 'Plugins' menu in WordPress.
 8. Start configuring your plugins and your new site.
-9. You can remove the **Plugin Bundle Activation** safely if you wish.
+9. You can remove the **Plugin Bundle Activation** safely or keep it just to update your bundled plugins.
 
 And that's it.
 
@@ -47,7 +47,7 @@ Just get the `config.json.sample` included and make the changes you want. The fi
 
 #### Have more questions?
 
-Go to the [Wordpress Plugin Bundle Activation's forum](https://github.com/iPublicis/plugin-bundle-activation/issues).
+Go to the [WordPress Plugin Bundle Activation's forum](https://github.com/iPublicis/plugin-bundle-activation/issues).
 
 ## Changelog
 
