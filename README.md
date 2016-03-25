@@ -1,4 +1,4 @@
-# iPCore Plugin Bundle Activation
+# WordPress Plugin Bundle Activation
 [![GitHub license](https://img.shields.io/badge/license-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.txt)
 
 **Lead Developers:**
