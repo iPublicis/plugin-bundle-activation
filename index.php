@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: iP Core Plugin Bundle Activation
-Plugin URI:  https://wordpress.org/plugins/plugin-bundle-activation/
+Plugin URI:  https://github.com/iPublicis/plugin-bundle-activation
 Description: WordPress Plugin bundle installation and activation
 Version:     1.0
 Author:      Lopo lencastre de Almeida
