@@ -1,6 +1,6 @@
 === Plugin  ===
 Contributors: ipublicis
-Plugin URI: https://wordpress.org/plugins/plugin-bundle-activation/
+Plugin URI: https://github.com/iPublicis/plugin-bundle-activation/
 Author: Lopo Lencastre de Almeida - iPublicis.com
 Author URI: http://www.ipublicis.com
 Donate link: http://smsh.me/7kit
@@ -55,7 +55,7 @@ Just get the `config.json.sample` included and make the changes you want. The fi
 
 = Have more questions? =
 
-Go to the [Wordpress' forum](http://wordpress.org/tags/plugin-bundle-activation?forum_id=10#postform).
+Go to the [Plugin's forum](https://github.com/iPublicis/plugin-bundle-activation/issues).
 
 == Changelog ==
 
