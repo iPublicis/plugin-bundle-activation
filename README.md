@@ -43,7 +43,7 @@ And that's it.
 
 #### HOW TO CREATE A NEW BUNDLE
 
-Just get the `config.json.sample` included and make the changes you want. The file is full commented so it is easy to follow.
+Just get the `config.json.sample` included and make the changes you want. The file is fully commented so it is easy to follow.
 
 #### Have more questions?
 
